@@ -50,3 +50,6 @@ plot_pacf(time_series.dropna(), lags=30)
 plt.title("Partial Autocorrelation Function (PACF)")
 plt.ylabel('Correlation (-1,1)')
 plt.show()
+
+
+
